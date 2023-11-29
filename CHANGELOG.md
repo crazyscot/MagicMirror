@@ -12,6 +12,7 @@ _This release is scheduled to be released on 2024-04-01._
 ### Added
 
 - Output of system information to the console for troubleshooting (#3328 and #3337), ignore errors under aarch64
+- weather: `showHumidity` config is now a string. Supported values: "wind", "temp", "feelslike", "below", "false".
 
 ### Updated
 
